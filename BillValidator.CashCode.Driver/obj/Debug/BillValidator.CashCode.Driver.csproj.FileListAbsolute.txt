@@ -1,0 +1,12 @@
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\bin\Debug\BillValidator.CashCode.Driver.dll
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\bin\Debug\BillValidator.CashCode.Driver.pdb
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.csproj.AssemblyReference.cache
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.csproj.CoreCompileInputs.cache
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.dll
+C:\Users\maksat.allakyev\Documents\CacheCode\BillValidator.CashCode.Example-master\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.pdb
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.csproj.AssemblyReference.cache
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.csproj.CoreCompileInputs.cache
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.dll
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\obj\Debug\BillValidator.CashCode.Driver.pdb
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\bin\Debug\BillValidator.CashCode.Driver.dll
+C:\Work\Examples\ee\DXApplication4\BillValidator.CashCode.Driver\bin\Debug\BillValidator.CashCode.Driver.pdb

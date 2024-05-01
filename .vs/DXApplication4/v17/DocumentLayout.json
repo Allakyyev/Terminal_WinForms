@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Terminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|c:\\work\\terminal\\dxapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|c:\\work\\terminal\\dxapplication4\\resource.ru-ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\resource.ru-ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|c:\\work\\terminal\\dxapplication4\\resource.en-en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\resource.en-en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|c:\\work\\terminal\\dxapplication4\\resource.tk-tk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\resource.tk-tk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\cachecodeservice\\cashcodevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\cachecodeservice\\cashcodevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucinstallpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucinstallpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\Examples\\ee\\DXApplication4\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|C:\\Work\\Terminal\\billvalidator.cashcode.driver\\cashcodebillvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|solutionrelative:billvalidator.cashcode.driver\\cashcodebillvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucinstallpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucinstallpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucfinishpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucfinishpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucfinishpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucfinishpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\viewmodels\\wizardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\viewmodels\\wizardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucstartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucstartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucinstallpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucinstallpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucoptionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucoptionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|C:\\Work\\Terminal\\billvalidator.cashcode.driver\\billsdefinition\\turkmenbillsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|solutionrelative:billvalidator.cashcode.driver\\billsdefinition\\turkmenbillsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|C:\\Work\\Terminal\\billvalidator.cashcode.driver\\billsdefinition\\ibillsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880899D-95F0-4342-96ED-1E4F987A50B2}|BillValidator.CashCode.Driver\\BillValidator.CashCode.Driver.csproj|solutionrelative:billvalidator.cashcode.driver\\billsdefinition\\ibillsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucoptionspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucoptionspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucoptionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucoptionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucoptionspage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucoptionspage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\views\\ucstartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\views\\ucstartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|C:\\Work\\Terminal\\dxapplication4\\viewmodels\\startpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525FF91-7B5C-4C3B-B67E-AD4F8EA467F6}|DXApplication4\\DXApplication4.csproj|solutionrelative:dxapplication4\\viewmodels\\startpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucInstallPage.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucInstallPage.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucInstallPage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:03:37.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.en-EN.resx",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Resource.en-EN.resx",
+              "RelativeDocumentMoniker": "DXApplication4\\Resource.en-EN.resx",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Resource.en-EN.resx",
+              "RelativeToolTip": "DXApplication4\\Resource.en-EN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T12:14:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.ru-RU.resx",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Resource.ru-RU.resx",
+              "RelativeDocumentMoniker": "DXApplication4\\Resource.ru-RU.resx",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Resource.ru-RU.resx",
+              "RelativeToolTip": "DXApplication4\\Resource.ru-RU.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T12:14:01.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.tk-TK.resx",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Resource.tk-TK.resx",
+              "RelativeDocumentMoniker": "DXApplication4\\Resource.tk-TK.resx",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Resource.tk-TK.resx",
+              "RelativeToolTip": "DXApplication4\\Resource.tk-TK.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T12:10:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\MainForm.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\MainForm.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\MainForm.cs [Design]",
+              "RelativeToolTip": "DXApplication4\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:48:29.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\MainForm.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\MainForm.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\MainForm.cs",
+              "RelativeToolTip": "DXApplication4\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:38:31.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashCodeValidatorService.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\CacheCodeService\\CashCodeValidatorService.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\CacheCodeService\\CashCodeValidatorService.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\CacheCodeService\\CashCodeValidatorService.cs",
+              "RelativeToolTip": "DXApplication4\\CacheCodeService\\CashCodeValidatorService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:07:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Program.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Program.cs",
+              "RelativeToolTip": "DXApplication4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:59:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\MainForm.Designer.cs",
+              "RelativeToolTip": "DXApplication4\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:48:55.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucInstallPage.cs [Design]",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucInstallPage.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.cs [Design]",
+              "RelativeToolTip": "DXApplication4\\Views\\ucInstallPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:46:29.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucFinishPage.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucFinishPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucFinishPage.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucFinishPage.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucFinishPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:03:49.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WizardViewModel.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\ViewModels\\WizardViewModel.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\ViewModels\\WizardViewModel.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\ViewModels\\WizardViewModel.cs",
+              "RelativeToolTip": "DXApplication4\\ViewModels\\WizardViewModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAWwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:45:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CashCodeBillValidator.cs",
+              "DocumentMoniker": "C:\\Work\\Examples\\ee\\DXApplication4\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "RelativeDocumentMoniker": "..\\Examples\\ee\\DXApplication4\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "ToolTip": "C:\\Work\\Examples\\ee\\DXApplication4\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "RelativeToolTip": "..\\Examples\\ee\\DXApplication4\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAAwEsBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:01:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CashCodeBillValidator.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "RelativeDocumentMoniker": "BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "ToolTip": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "RelativeToolTip": "BillValidator.CashCode.Driver\\CashCodeBillValidator.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAAwEcBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:58:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucFinishPage.cs [Design]",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucFinishPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucFinishPage.cs",
+              "ToolTip": "C:\\Work\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucFinishPage.cs [Design]",
+              "RelativeToolTip": "..\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucFinishPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:30:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucStartPage.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucStartPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucStartPage.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucStartPage.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucStartPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:31:54.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Interfaces.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Interfaces.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Interfaces.cs",
+              "RelativeToolTip": "DXApplication4\\Interfaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:41:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucInstallPage.Designer.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.Designer.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucInstallPage.Designer.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucInstallPage.Designer.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucInstallPage.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:06:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ucOptionsPage.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucOptionsPage.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucOptionsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:53:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TurkmenBillsDefinition.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\BillsDefinition\\TurkmenBillsDefinition.cs",
+              "RelativeDocumentMoniker": "BillValidator.CashCode.Driver\\BillsDefinition\\TurkmenBillsDefinition.cs",
+              "ToolTip": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\BillsDefinition\\TurkmenBillsDefinition.cs",
+              "RelativeToolTip": "BillValidator.CashCode.Driver\\BillsDefinition\\TurkmenBillsDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:57:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBillsDefinition.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\BillsDefinition\\IBillsDefinition.cs",
+              "RelativeDocumentMoniker": "BillValidator.CashCode.Driver\\BillsDefinition\\IBillsDefinition.cs",
+              "ToolTip": "C:\\Work\\Terminal\\BillValidator.CashCode.Driver\\BillsDefinition\\IBillsDefinition.cs",
+              "RelativeToolTip": "BillValidator.CashCode.Driver\\BillsDefinition\\IBillsDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:58:31.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StartPageViewModel.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\ViewModels\\StartPageViewModel.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\ViewModels\\StartPageViewModel.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\ViewModels\\StartPageViewModel.cs",
+              "RelativeToolTip": "DXApplication4\\ViewModels\\StartPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:02:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ucOptionsPage.Designer.cs",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.Designer.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucOptionsPage.Designer.cs",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.Designer.cs",
+              "RelativeToolTip": "DXApplication4\\Views\\ucOptionsPage.Designer.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:02:51.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ucStartPage.cs [Design]",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucStartPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucStartPage.cs",
+              "ToolTip": "C:\\Work\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucStartPage.cs [Design]",
+              "RelativeToolTip": "..\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucStartPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:28:10.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucOptionsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.cs",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucOptionsPage.cs",
+              "ToolTip": "C:\\Work\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucOptionsPage.cs [Design]",
+              "RelativeToolTip": "..\\Examples\\ee\\DXApplication4\\DXApplication4\\Views\\ucOptionsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:46:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ucOptionsPage.resx",
+              "DocumentMoniker": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.resx",
+              "RelativeDocumentMoniker": "DXApplication4\\Views\\ucOptionsPage.resx",
+              "ToolTip": "C:\\Work\\Terminal\\DXApplication4\\Views\\ucOptionsPage.resx",
+              "RelativeToolTip": "DXApplication4\\Views\\ucOptionsPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-14T18:13:37.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
